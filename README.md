@@ -1,4 +1,3 @@
 # HTML_CSS_TEMPLATE_ONE
 
-plz read the readme.text file 
-thx
+to view live demo https://omarabualhija.github.io/HTML_CSS_TEMPLATE_ONE/
